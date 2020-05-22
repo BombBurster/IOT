@@ -1,0 +1,3 @@
+.global test_assembly_function
+test_assembly_function:
+ret
